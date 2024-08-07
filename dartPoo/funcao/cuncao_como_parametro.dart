@@ -2,9 +2,13 @@ import 'dart:math';
 
 void main(List<String> args) {
   var minhaFnPar = () => print('Eita! o valor é par!');
-  var minhaFnPar = () => print('Eita! o valor é par!');
+  var minhaImpar = () => print('Legal! O valor é ìmpar!');
+
+  execultar(minhaFnPar, minhaImpar);
 }
 
-void exeecultar(Function fnPar, Function fnImpar) {
-  Random().nextInt(10) % 2 == 0 ? fnPar() : fnImpar();
+void execultar(Function fnPar, Function fnImpar) {
+  var valorSorteado = Random().nextInt(10);
+  print(valorSorteado);
+  valorSorteado % 2 == 0 ? fnPar() : fnImpar();
 }
