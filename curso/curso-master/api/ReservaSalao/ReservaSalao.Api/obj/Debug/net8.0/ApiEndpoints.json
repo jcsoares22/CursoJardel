@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "ReservaSalao.Api.Controllers.v1.AuthController",
+    "Method": "GerarToken",
+    "RelativePath": "v1/auth/gera-token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReservaSalao.Api.Controllers.v1.AuthController",
+    "Method": "RealizaLogin",
+    "RelativePath": "v1/auth/realiza-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ReservaSalao.Application.Auth.RealizaLoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReservaSalao.Api.Controllers.v1.AuthController",
+    "Method": "RetornaStatus",
+    "RelativePath": "v1/auth/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

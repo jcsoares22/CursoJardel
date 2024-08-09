@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\wwwroot\\swagger-custom.css",
+      "PackagePath": "staticwebassets\\swagger-custom.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ReservaSalao.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ReservaSalao.Api.props",
+      "PackagePath": "build\\ReservaSalao.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ReservaSalao.Api.props",
+      "PackagePath": "buildMultiTargeting\\ReservaSalao.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ReservaSalao.Api.props",
+      "PackagePath": "buildTransitive\\ReservaSalao.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

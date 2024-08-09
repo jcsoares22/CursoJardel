@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\curso\\api\\ReservaSalao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\configs\\connectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\configs\\connectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8C5D46-CA2C-4246-8C8B-A49652CCF20F}|ReservaSalao.Infra\\ReservaSalao.Infra.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.infra\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8C5D46-CA2C-4246-8C8B-A49652CCF20F}|ReservaSalao.Infra\\ReservaSalao.Infra.csproj|solutionrelative:reservasalao.infra\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\configs\\infraextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\configs\\infraextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\configs\\applicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\configs\\applicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\controllers\\v1\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C8ED40-7526-4B33-9335-5B044036377E}|ReservaSalao.Application\\ReservaSalao.Application.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.application\\auth\\realizaloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C8ED40-7526-4B33-9335-5B044036377E}|ReservaSalao.Application\\ReservaSalao.Application.csproj|solutionrelative:reservasalao.application\\auth\\realizaloginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9531F60-AF42-44AC-899B-2CA4AF725E8D}|ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj|d:\\work\\curso\\api\\reservasalao\\reservasaldo.crosscutting\\reservasaldo.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9531F60-AF42-44AC-899B-2CA4AF725E8D}|ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj|solutionrelative:reservasaldo.crosscutting\\reservasaldo.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8C5D46-CA2C-4246-8C8B-A49652CCF20F}|ReservaSalao.Infra\\ReservaSalao.Infra.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.infra\\contexts\\reservasalaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8C5D46-CA2C-4246-8C8B-A49652CCF20F}|ReservaSalao.Infra\\ReservaSalao.Infra.csproj|solutionrelative:reservasalao.infra\\contexts\\reservasalaodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8C5D46-CA2C-4246-8C8B-A49652CCF20F}|ReservaSalao.Infra\\ReservaSalao.Infra.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.infra\\maps\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8C5D46-CA2C-4246-8C8B-A49652CCF20F}|ReservaSalao.Infra\\ReservaSalao.Infra.csproj|solutionrelative:reservasalao.infra\\maps\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8C5D46-CA2C-4246-8C8B-A49652CCF20F}|ReservaSalao.Infra\\ReservaSalao.Infra.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.infra\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8C5D46-CA2C-4246-8C8B-A49652CCF20F}|ReservaSalao.Infra\\ReservaSalao.Infra.csproj|solutionrelative:reservasalao.infra\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA8C5D46-CA2C-4246-8C8B-A49652CCF20F}|ReservaSalao.Infra\\ReservaSalao.Infra.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.infra\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8C5D46-CA2C-4246-8C8B-A49652CCF20F}|ReservaSalao.Infra\\ReservaSalao.Infra.csproj|solutionrelative:reservasalao.infra\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3377A8-03D8-49E0-B6C2-9CB00227D191}|ReservaSalao.Domain\\ReservaSalao.Domain.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.domain\\shared\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3377A8-03D8-49E0-B6C2-9CB00227D191}|ReservaSalao.Domain\\ReservaSalao.Domain.csproj|solutionrelative:reservasalao.domain\\shared\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3377A8-03D8-49E0-B6C2-9CB00227D191}|ReservaSalao.Domain\\ReservaSalao.Domain.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.domain\\shared\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3377A8-03D8-49E0-B6C2-9CB00227D191}|ReservaSalao.Domain\\ReservaSalao.Domain.csproj|solutionrelative:reservasalao.domain\\shared\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3377A8-03D8-49E0-B6C2-9CB00227D191}|ReservaSalao.Domain\\ReservaSalao.Domain.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.domain\\auth\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3377A8-03D8-49E0-B6C2-9CB00227D191}|ReservaSalao.Domain\\ReservaSalao.Domain.csproj|solutionrelative:reservasalao.domain\\auth\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3377A8-03D8-49E0-B6C2-9CB00227D191}|ReservaSalao.Domain\\ReservaSalao.Domain.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.domain\\auth\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3377A8-03D8-49E0-B6C2-9CB00227D191}|ReservaSalao.Domain\\ReservaSalao.Domain.csproj|solutionrelative:reservasalao.domain\\auth\\usuarioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3377A8-03D8-49E0-B6C2-9CB00227D191}|ReservaSalao.Domain\\ReservaSalao.Domain.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.domain\\shared\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3377A8-03D8-49E0-B6C2-9CB00227D191}|ReservaSalao.Domain\\ReservaSalao.Domain.csproj|solutionrelative:reservasalao.domain\\shared\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\configs\\swaggergenextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\configs\\swaggergenextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\configs\\swaggeruiextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\configs\\swaggeruiextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\configs\\corsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\configs\\corsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\configs\\swaggerversioningextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\configs\\swaggerversioningextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\configs\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\configs\\problemdetailsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|d:\\work\\curso\\api\\reservasalao\\reservasalao.api\\configs\\globalexceptionhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAF1BCE-AD34-4D4D-B60D-148DD7BD6A85}|ReservaSalao.Api\\ReservaSalao.Api.csproj|solutionrelative:reservasalao.api\\configs\\globalexceptionhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\Maps\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Infra\\Maps\\UsuarioMap.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\Maps\\UsuarioMap.cs",
+              "RelativeToolTip": "ReservaSalao.Infra\\Maps\\UsuarioMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:53:57.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservaSalaoDbContext.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\Contexts\\ReservaSalaoDbContext.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Infra\\Contexts\\ReservaSalaoDbContext.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\Contexts\\ReservaSalaoDbContext.cs",
+              "RelativeToolTip": "ReservaSalao.Infra\\Contexts\\ReservaSalaoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:53:19.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Program.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Program.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:04:49.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Controllers\\v1\\AuthController.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Controllers\\v1\\AuthController.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Controllers\\v1\\AuthController.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Controllers\\v1\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:11:34.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfraExtension.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\InfraExtension.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Configs\\InfraExtension.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\InfraExtension.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Configs\\InfraExtension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:56:58.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionExtension.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\ConnectionExtension.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Configs\\ConnectionExtension.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\ConnectionExtension.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Configs\\ConnectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:56:34.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationExtension.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\ApplicationExtension.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Configs\\ApplicationExtension.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\ApplicationExtension.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Configs\\ApplicationExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:56:23.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Infra\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "ReservaSalao.Infra\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:51:50.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RealizaLoginHandler.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Application\\Auth\\RealizaLoginHandler.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Application\\Auth\\RealizaLoginHandler.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Application\\Auth\\RealizaLoginHandler.cs",
+              "RelativeToolTip": "ReservaSalao.Application\\Auth\\RealizaLoginHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:57:40.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservaSaldo.CrossCutting",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj",
+              "RelativeDocumentMoniker": "ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj",
+              "RelativeToolTip": "ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T17:03:09.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Infra\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "ReservaSalao.Infra\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:52:02.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\Shared\\IRepository.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Domain\\Shared\\IRepository.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\Shared\\IRepository.cs",
+              "RelativeToolTip": "ReservaSalao.Domain\\Shared\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:48:14.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\Auth\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Domain\\Auth\\IUsuarioRepository.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\Auth\\IUsuarioRepository.cs",
+              "RelativeToolTip": "ReservaSalao.Domain\\Auth\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:47:09.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioEntity.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\Auth\\UsuarioEntity.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Domain\\Auth\\UsuarioEntity.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\Auth\\UsuarioEntity.cs",
+              "RelativeToolTip": "ReservaSalao.Domain\\Auth\\UsuarioEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:08:02.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\Shared\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Domain\\Shared\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\Shared\\IUnitOfWork.cs",
+              "RelativeToolTip": "ReservaSalao.Domain\\Shared\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:16:07.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Infra\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Infra\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ReservaSalao.Infra\\Repositories\\Repository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAxwBYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:15:19.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\appsettings.json",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\appsettings.json",
+              "RelativeToolTip": "ReservaSalao.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T12:03:29.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\appsettings.Development.json",
+              "RelativeToolTip": "ReservaSalao.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T14:10:16.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\Shared\\IEntity.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Domain\\Shared\\IEntity.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Domain\\Shared\\IEntity.cs",
+              "RelativeToolTip": "ReservaSalao.Domain\\Shared\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:08:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CORSExtension.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\CORSExtension.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Configs\\CORSExtension.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\CORSExtension.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Configs\\CORSExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:56:54.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SwaggerUIExtension.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\SwaggerUIExtension.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Configs\\SwaggerUIExtension.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\SwaggerUIExtension.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Configs\\SwaggerUIExtension.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:57:48.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SwaggerGenExtensions.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\SwaggerGenExtensions.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Configs\\SwaggerGenExtensions.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\SwaggerGenExtensions.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Configs\\SwaggerGenExtensions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:57:24.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SwaggerVersioningExtension.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\SwaggerVersioningExtension.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Configs\\SwaggerVersioningExtension.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\SwaggerVersioningExtension.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Configs\\SwaggerVersioningExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:59:04.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProblemDetailsExtensions.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\ProblemDetailsExtensions.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Configs\\ProblemDetailsExtensions.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\ProblemDetailsExtensions.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Configs\\ProblemDetailsExtensions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:57:06.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GlobalExceptionHandle.cs",
+              "DocumentMoniker": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\GlobalExceptionHandle.cs",
+              "RelativeDocumentMoniker": "ReservaSalao.Api\\Configs\\GlobalExceptionHandle.cs",
+              "ToolTip": "D:\\Work\\curso\\api\\ReservaSalao\\ReservaSalao.Api\\Configs\\GlobalExceptionHandle.cs",
+              "RelativeToolTip": "ReservaSalao.Api\\Configs\\GlobalExceptionHandle.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:56:55.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

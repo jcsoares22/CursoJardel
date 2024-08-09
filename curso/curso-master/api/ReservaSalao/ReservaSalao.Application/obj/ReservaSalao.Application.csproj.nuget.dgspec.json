@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Application\\ReservaSalao.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Application\\ReservaSalao.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Application\\ReservaSalao.Application.csproj",
+        "projectName": "ReservaSalao.Application",
+        "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Application\\ReservaSalao.Application.csproj",
+        "packagesPath": "C:\\Users\\Jc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj"
+              },
+              "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Infra\\ReservaSalao.Infra.csproj": {
+                "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Infra\\ReservaSalao.Infra.csproj"
+              },
+              "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj",
+        "projectName": "ReservaSalao.Domain",
+        "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj",
+        "packagesPath": "C:\\Users\\Jc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Infra\\ReservaSalao.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Infra\\ReservaSalao.Infra.csproj",
+        "projectName": "ReservaSalao.Infra",
+        "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Infra\\ReservaSalao.Infra.csproj",
+        "packagesPath": "C:\\Users\\Jc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Domain\\ReservaSalao.Domain.csproj"
+              },
+              "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj",
+        "projectName": "ReservaSaldo.CrossCutting",
+        "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSaldo.CrossCutting\\ReservaSaldo.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Jc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSaldo.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

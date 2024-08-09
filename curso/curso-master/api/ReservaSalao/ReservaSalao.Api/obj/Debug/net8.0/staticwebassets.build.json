@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "KSNpvKY7xKDqB2zQe2fNzxyp/yOVg/vsszm+DGgaDUE=",
+  "Source": "ReservaSalao.Api",
+  "BasePath": "_content/ReservaSalao.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ReservaSalao.Api\\wwwroot",
+      "Source": "ReservaSalao.Api",
+      "ContentRoot": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\wwwroot\\",
+      "BasePath": "_content/ReservaSalao.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\wwwroot\\swagger-custom.css",
+      "SourceId": "ReservaSalao.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\wwwroot\\",
+      "BasePath": "_content/ReservaSalao.Api",
+      "RelativePath": "swagger-custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-custom.css"
+    }
+  ]
+}
