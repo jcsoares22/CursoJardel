@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\ReservaSalao.Api.csproj": {}
+    "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Api\\ReservaSalao.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\ReservaSalao.Api.csproj": {
+    "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Api\\ReservaSalao.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\ReservaSalao.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Api\\ReservaSalao.Api.csproj",
         "projectName": "ReservaSalao.Api",
-        "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\ReservaSalao.Api.csproj",
+        "projectPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Api\\ReservaSalao.Api.csproj",
         "packagesPath": "C:\\Users\\Jc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\obj\\",
+        "outputPath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -149,6 +149,10 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.4.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

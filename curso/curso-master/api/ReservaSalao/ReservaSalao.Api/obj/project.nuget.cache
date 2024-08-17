@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P5vjW67kAPw=",
+  "dgSpecHash": "B98jsW0tQIA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\ReservaSalao.Api.csproj",
+  "projectFilePath": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Api\\ReservaSalao.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jc\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
     "C:\\Users\\Jc\\.nuget\\packages\\asp.versioning.http\\8.1.0\\asp.versioning.http.8.1.0.nupkg.sha512",

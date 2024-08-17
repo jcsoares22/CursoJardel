@@ -1,12 +1,18 @@
 [
   {
     "ContainingType": "ReservaSalao.Api.Controllers.v1.AuthController",
-    "Method": "GerarToken",
-    "RelativePath": "v1/auth/gera-token",
-    "HttpMethod": "GET",
+    "Method": "CriaUsuario",
+    "RelativePath": "v1/auth/cria-usuario",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ReservaSalao.Application.Auth.CriaUsuario.CriaUsuarioCommand",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -19,7 +25,7 @@
     "Parameters": [
       {
         "Name": "command",
-        "Type": "ReservaSalao.Application.Auth.RealizaLoginCommand",
+        "Type": "ReservaSalao.Application.Auth.RealizaLogin.RealizaLoginCommand",
         "IsRequired": true
       }
     ],

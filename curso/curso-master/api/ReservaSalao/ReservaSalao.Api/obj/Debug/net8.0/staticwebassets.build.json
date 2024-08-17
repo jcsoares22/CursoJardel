@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KSNpvKY7xKDqB2zQe2fNzxyp/yOVg/vsszm+DGgaDUE=",
+  "Hash": "wahk991M7AyRrxq3fOyxHDuFFipHhGU1VP8Z45RGykE=",
   "Source": "ReservaSalao.Api",
   "BasePath": "_content/ReservaSalao.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ReservaSalao.Api\\wwwroot",
       "Source": "ReservaSalao.Api",
-      "ContentRoot": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\",
       "BasePath": "_content/ReservaSalao.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\wwwroot\\swagger-custom.css",
+      "Identity": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\swagger-custom.css",
       "SourceId": "ReservaSalao.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Jc\\Documents\\GitHub\\Curso_Jardel\\CursoJardel\\curso\\curso-master\\api\\ReservaSalao\\ReservaSalao.Api\\wwwroot\\",
       "BasePath": "_content/ReservaSalao.Api",
       "RelativePath": "swagger-custom.css",
       "AssetKind": "All",

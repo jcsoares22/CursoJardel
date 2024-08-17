@@ -1,5 +1,6 @@
 using Asp.Versioning.ApiExplorer;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using ReservaSalao.Api.Configs;
 using ReservaSalao.Application.Shared;
@@ -11,7 +12,20 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddConnection(builder.Configuration);
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+                    .ConfigureApiBehaviorOptions(options =>
+                    {
+                        // Configura a geração de ProblemDetails para erros de validação
+                        options.InvalidModelStateResponseFactory = context =>
+                        {
+                            var problemDetails = new ValidationProblemDetails(context.ModelState)
+                            {
+                                Status = StatusCodes.Status400BadRequest,
+                                Title = "One or more validation errors occurred."
+                            };
+                            return new BadRequestObjectResult(problemDetails);
+                        };
+                    });
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerVersioningExtension();
 builder.Services.AddApplication();

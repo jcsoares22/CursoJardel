@@ -39,5 +39,5 @@ public class Result<T>
 
     public static Result<T> Success(T value) => new(value);
 
-    public static Result<T> Failure(string error) => new(error);
+    public static Result<T> Failure(string codigoError, string error) => new($"{codigoError} - {error}");
 }

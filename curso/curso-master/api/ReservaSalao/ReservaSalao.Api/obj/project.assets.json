@@ -2503,6 +2503,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "MediatR": "12.4.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.7",
           "ReservaSalao.Domain": "1.0.0",
           "ReservaSalao.Infra": "1.0.0",
           "ReservaSaldo.CrossCutting": "1.0.0"
