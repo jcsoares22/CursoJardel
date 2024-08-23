@@ -10,5 +10,5 @@ class DadosLogin extends Equatable {
   });
 
   @override
-  List<Object> get props => [nome, token];
+  List<Object?> get props => [nome, token];
 }

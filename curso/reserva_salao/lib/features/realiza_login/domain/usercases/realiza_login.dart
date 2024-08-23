@@ -3,6 +3,7 @@ import 'package:equatable/equatable.dart';
 import 'package:reserva_salao/core/failure.dart';
 import 'package:reserva_salao/core/usecase.dart';
 import 'package:reserva_salao/features/realiza_login/domain/entities/dados_login.dart';
+import 'package:reserva_salao/features/realiza_login/domain/errors/failures_login.dart';
 import 'package:reserva_salao/features/realiza_login/domain/repositories/login_repositore.dart';
 
 class Params extends Equatable {
@@ -24,13 +25,13 @@ class RealizaLogin extends Usecase<DadosLogin, Params> {
 
   @override
   Future<Either<Failure, DadosLogin>> call({required Params params}) async {
+    if (params.email.isEmpty) {
+      return Left(EmailRqueridFailure(message: 'Email deve cser preenchido'));
+    }
     var result = await repositore.realizaLogin(
         email: params.email, password: params.email);
 
-    if (result.isRight()) {
-      return result;
-    }
-
-    throw UnimplementedError;
+    return result.fold(
+        (l) => Left(CredeciaisInvalida(message: l.message)), (r) => Right(r));
   }
 }
