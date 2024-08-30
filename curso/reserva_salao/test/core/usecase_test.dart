@@ -2,6 +2,7 @@ import 'package:dartz/dartz.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
+import 'package:reserva_salao/core/failure.dart';
 import 'package:reserva_salao/features/realiza_login/domain/entities/dados_login.dart';
 import 'package:reserva_salao/features/realiza_login/domain/errors/failures_login.dart';
 import 'package:reserva_salao/features/realiza_login/domain/repositories/login_repositore.dart';
@@ -38,7 +39,7 @@ void main() {
       email: anyNamed('email'),
       password: anyNamed('password'),
     )).thenAnswer((_) async =>
-        Left(CredeciaisInvalida(message: "Credenciais invalida message")));
+        Left(RepositoryFailure(message: "Credenciais invalida message")));
 
     const params = Params(email: 'email', password: '1234');
     final result = (await usecase(params: params)).fold((l) => l, (r) => r);
@@ -53,7 +54,6 @@ void main() {
   });
 
   test("Deve retornar um EmailRquerid  caso o email esteja vasio", () async {
-   
     const params = Params(email: '', password: '1234');
     final result = (await usecase(params: params)).fold((l) => l, (r) => r);
     expect(result, isA<EmailRqueridFailure>());

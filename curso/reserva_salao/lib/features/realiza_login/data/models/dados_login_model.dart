@@ -22,6 +22,9 @@ class DadosLoginModel extends DadosLogin {
     );
   }
 
+
+  
+
   @override
   List<Object?> get props => [nome, token, isSuccess, isFailure, error];
 }
