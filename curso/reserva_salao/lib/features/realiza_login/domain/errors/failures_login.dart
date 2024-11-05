@@ -1,13 +1,9 @@
 import 'package:reserva_salao/core/failure.dart';
 
-class CredeciaisInvalida extends Failure {
-  CredeciaisInvalida({
-    required super.message,
-  });
+class CredenciaisInvalidas extends Failure {
+  CredenciaisInvalidas({required super.message});
 }
 
-class EmailRqueridFailure extends Failure {
-  EmailRqueridFailure({
-    required super.message,
-  });
+class EmailRequiredFailure extends Failure {
+  EmailRequiredFailure({required super.message});
 }

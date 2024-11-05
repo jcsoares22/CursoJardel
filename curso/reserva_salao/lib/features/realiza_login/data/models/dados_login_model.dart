@@ -12,7 +12,7 @@ class DadosLoginModel extends DadosLogin {
     this.error,
   });
 
-  factory DadosLoginModel.fromjson(Map<String, dynamic> json) {
+  factory DadosLoginModel.fromJson(Map<String, dynamic> json) {
     return DadosLoginModel(
       nome: json["value"]["nome"],
       token: json["value"]["token"],
@@ -22,8 +22,14 @@ class DadosLoginModel extends DadosLogin {
     );
   }
 
-
-  
+  Map<String, dynamic> toJson() {
+    return {
+      "nome": nome,
+      "token": token,
+      "isSuccess": isSuccess,
+      "isFailure": isFailure,
+    };
+  }
 
   @override
   List<Object?> get props => [nome, token, isSuccess, isFailure, error];
