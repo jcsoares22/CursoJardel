@@ -15,16 +15,15 @@ class _LoginPageState extends State<LoginPage> {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: SafeArea(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: [
-            LoginCabecalhowidget(),
-            LoginFormWidget(),
-            LoginRodapeWidget(),
-          ],
-        ),
-      ),
+          child: Column(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: [
+          LoginCabecalhoWidget(),
+          LoginFormWidget(),
+          LoginRodapeWidget(),
+        ],
+      )),
     );
   }
 }

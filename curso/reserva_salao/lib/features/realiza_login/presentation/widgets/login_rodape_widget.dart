@@ -5,9 +5,8 @@ class LoginRodapeWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      color: Colors.yellow,
-      child: TextButton(onPressed: () {}, child: const Text('Esqueci a senha')),
-    );
+    return TextButton(
+        onPressed: () => debugPrint("oi"),
+        child: const Text("Esqueci a senha"));
   }
 }
