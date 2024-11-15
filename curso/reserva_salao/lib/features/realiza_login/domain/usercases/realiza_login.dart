@@ -18,7 +18,7 @@ class Params extends Equatable {
   List<Object> get props => [email, password];
 }
 
-class RealizaLogin extends UseCase<DadosLogin, Params> {
+class RealizaLogin extends Usecase<DadosLogin, Params> {
   final LoginRepositore repositore;
 
   RealizaLogin({required this.repositore});
@@ -26,12 +26,12 @@ class RealizaLogin extends UseCase<DadosLogin, Params> {
   @override
   Future<Either<Failure, DadosLogin>> call({required Params params}) async {
     if (params.email.isEmpty) {
-      return Left(EmailRequiredFailure(message: 'Email deve cser preenchido'));
+      return Left(EmailRqueridFailure(message: 'Email deve cser preenchido'));
     }
     var result = await repositore.realizaLogin(
         email: params.email, password: params.email);
 
     return result.fold(
-        (l) => Left(CredenciaisInvalidas(message: l.message)), (r) => Right(r));
+        (l) => Left(CredeciaisInvalida(message: l.message)), (r) => Right(r));
   }
 }
