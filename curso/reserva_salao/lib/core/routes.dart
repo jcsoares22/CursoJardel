@@ -9,13 +9,13 @@ final GoRouter router = GoRouter(
         builder: (context, state) => const LoginDioPage(),
         routes: <RouteBase>[
           GoRoute(
-              path: "agendamento/:nome/:cidade/",
+              path: "agendamento/:nome",
               builder: (_, state) {
                 final nome = state.pathParameters["nome"];
                 return AgendamentoPage(nome: nome!);
               }),
           GoRoute(
-              path: "cliente/",
+              path: "cliente/:nome",
               builder: (_, state) {
                 final nome = state.pathParameters["nome"];
                 return AgendamentoPage(nome: nome!);
