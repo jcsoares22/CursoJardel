@@ -20,18 +20,9 @@ class MyApp extends StatelessWidget {
       routerConfig: router,
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
-<<<<<<< HEAD
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
-        useMaterial3: true,
-      ),
-      home: const LoginPage(),
-     
-=======
       //themeMode: ThemeMode.dark,
       //theme: ThemeCustom.getThemeLight(),
       //darkTheme: ThemeCustom.getThemeDark(),
->>>>>>> 44a29c4b38817a0a43d8096afe4da5dd4ff005f8
     );
   }
 }

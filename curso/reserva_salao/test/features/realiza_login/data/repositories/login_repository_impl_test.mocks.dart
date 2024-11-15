@@ -6,7 +6,7 @@
 import 'dart:async' as _i4;
 
 import 'package:mockito/mockito.dart' as _i1;
-import 'package:reserva_salao/features/realiza_login/data/datasouces/login_datasource.dart'
+import 'package:reserva_salao/features/realiza_login/data/datasources/login_datasource.dart'
     as _i3;
 import 'package:reserva_salao/features/realiza_login/data/models/dados_login_model.dart'
     as _i2;
@@ -35,11 +35,11 @@ class _FakeDadosLoginModel_0 extends _i1.SmartFake
         );
 }
 
-/// A class which mocks [LoginDatasouce].
+/// A class which mocks [LoginDatasource].
 ///
 /// See the documentation for Mockito's code generation for more information.
-class MockLoginDatasouce extends _i1.Mock implements _i3.LoginDatasouce {
-  MockLoginDatasouce() {
+class MockLoginDatasource extends _i1.Mock implements _i3.LoginDatasource {
+  MockLoginDatasource() {
     _i1.throwOnMissingStub(this);
   }
 
