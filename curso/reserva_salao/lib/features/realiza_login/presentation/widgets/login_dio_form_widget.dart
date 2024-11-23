@@ -39,7 +39,7 @@ class LoginDioFormWidget extends StatelessWidget {
               ),
               const TextField(
                 decoration: InputDecoration(
-                  labelText: 'Email',
+                  labelText: 'Senha',
                   prefixIcon: Icon(Icons.person, color: Colors.purple),
                 ),
               ),
