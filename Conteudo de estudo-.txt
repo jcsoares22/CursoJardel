@@ -1,0 +1,18 @@
+verificar as regras da programação funcional
+----------------------------------------------------------------
+frezeed do dart   ----------------https://pub.dev/packages/freezed/install
+----------------------------------------------------------------
+estudar sobre class abistrada, usar a abstração 
+----------------------------------------------------------------
+resut pattern
+----------------------------------------------------------------
+o que são obejetos
+Classes 
+Heranças 
+polimofismo
+encapusulamento
+generics 
+----------------------------------------------------------------
+
+
+https://yogi-7y.medium.com/pure-functions-side-effects-in-dart-functional-programming-part-1-fb931d6c0351
